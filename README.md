@@ -34,7 +34,7 @@
 - currently pursuing a BTech CSE degree with speciliazation in Cloud Computing at SRMIST.
 - co-authored a peer-reviewed ML paper on **aviation turbulence detection** — presented at SUSTAINED 2026, New Delhi
 - **AWS Solutions Architect Associate** · **AWS Developer Associate** (perfect 1000/1000) .
-- previously interned as a **Full Stack Dev Intern** at Baasthan, shipping production REST APIs in Next.js + Supabase
+- previously interned as a **Full Stack Dev** at Baasthan, shipping production REST APIs in Next.js + Supabase
 - interested in: agentic AI · cloud architecture · distributed systems · and occasionally, what to cook for dinner
 
 ---
