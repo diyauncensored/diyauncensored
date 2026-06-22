@@ -11,7 +11,6 @@
 *B.Tech CSE (Cloud Computing) · SRMIST '27 · Bengaluru, India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diya--nandana-D4899A?style=flat-square&logo=linkedin&logoColor=white&labelColor=2A1A22)](https://linkedin.com/in/diya-nandana)
-[![GitHub](https://img.shields.io/badge/GitHub-diyauncensored-D4899A?style=flat-square&logo=github&logoColor=white&labelColor=2A1A22)](https://github.com/diyauncensored)
 [![Email](https://img.shields.io/badge/Email-diyanandana@gmail.com-D4899A?style=flat-square&logo=gmail&logoColor=white&labelColor=2A1A22)](mailto:diyanandana@gmail.com)
 
 </div>
