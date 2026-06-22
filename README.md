@@ -77,22 +77,6 @@
 
 </div>
 
----
-
-### 🚀 featured projects
-
-<div align="center">
-
-| project | what it does | stack |
-|---|---|---|
-| [✈️ **Flight Turbulence Prediction**](https://github.com/diyauncensored/Flight-Turbulence-Prediction-System) | Real-time turbulence prediction using ensemble ML + LSTM, live weather API, Plotly dashboards | Python · Streamlit · TensorFlow · PostgreSQL |
-| [🌸 **FlowCare**](https://github.com/diyauncensored/FlowCare) | Full-stack menstrual wellness app with AI chatbot, health tracking, and real-time data viz | Next.js · Google Generative AI · SQLite |
-| 🔧 **Self-Healing Distributed System** | Containerised microservices with autonomous fault detection, health monitoring & AIOps crash diagnostics | Python · Docker · Ollama |
-
-</div>
-
----
-
 ### 📊 github stats
 
 <div align="center">
