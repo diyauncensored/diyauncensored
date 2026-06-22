@@ -77,12 +77,9 @@
 
 ### 📊 github stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyauncensored&layout=compact&theme=default&bg_color=FAF5F0&border_color=F2D4D0&title_color=8B4A6B&text_color=2A1A22&hide_border=false&langs_count=6" />
-
-</div>
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=diyauncensored&theme=soft-green&background=FAF5F0&border=F2D4D0&ring=D4899A&fire=8B4A6B&currStreakLabel=8B4A6B&sideLabels=2A1A22&dates=2A1A22&currStreakNum=2A1A22&sideNums=2A1A22" height="150"/>
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=diyauncensored&show_icons=true&theme=default&bg_color=FAF5F0&border_color=F2D4D0&title_color=8B4A6B&text_color=2A1A22&icon_color=D4899A&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyauncensored&layout=compact&theme=default&bg_color=FAF5F0&border_color=F2D4D0&title_color=8B4A6B&text_color=2A1A22&hide_border=false&langs_count=6" />
+</div>
+<div align="center">
 </div>
