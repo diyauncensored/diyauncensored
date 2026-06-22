@@ -90,11 +90,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=diyauncensored&theme=soft-green&background=FAF5F0&border=F2D4D0&ring=D4899A&fire=8B4A6B&currStreakLabel=8B4A6B&sideLabels=2A1A22&dates=2A1A22&currStreakNum=2A1A22&sideNums=2A1A22" height="150"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F2D4D0&height=60&section=footer" width="100%"/>
-
-*thanks for visiting 🌸*
-
-</div>
