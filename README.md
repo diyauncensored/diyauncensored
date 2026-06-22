@@ -31,10 +31,9 @@
 
 ### 🌸 about me
 
-- ☁️ Specialising in **Cloud Computing** at SRM Institute of Science and Technology (CGPA: 8.42)
-- 🤖 Currently building **LLM-based agents** for codebase understanding at **Potpie AI**, Bengaluru
-- ✈️ Co-authored a peer-reviewed ML paper on **aviation turbulence detection** — presented at SUSTAINED 2026, New Delhi
-- 🏅 **AWS Solutions Architect Associate** · **AWS Developer Associate** (perfect 1000/1000) · **OCI Foundations**
+- Currently pursuing a BTech CSE degree with speciliazation in Cloud Computing at SRMIST.
+- Co-authored a peer-reviewed ML paper on **aviation turbulence detection** — presented at SUSTAINED 2026, New Delhi
+- **AWS Solutions Architect Associate** · **AWS Developer Associate** (perfect 1000/1000) .
 - 🌐 Previously interned as a **Full Stack Dev** at Baasthan, shipping production REST APIs in Next.js + Supabase
 - 💡 Interested in: agentic AI · cloud architecture · distributed systems · and occasionally, what to cook for dinner
 
@@ -91,21 +90,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=diyauncensored&theme=soft-green&background=FAF5F0&border=F2D4D0&ring=D4899A&fire=8B4A6B&currStreakLabel=8B4A6B&sideLabels=2A1A22&dates=2A1A22&currStreakNum=2A1A22&sideNums=2A1A22" height="150"/>
 
 </div>
-
----
-
-### 🏅 certifications
-
-<div align="center">
-
-![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-F2D4D0?style=for-the-badge&logo=amazonaws&logoColor=2A1A22)
-![AWS DVA](https://img.shields.io/badge/AWS%20Developer%20Associate%20%7C%201000%2F1000-F2D4D0?style=for-the-badge&logo=amazonaws&logoColor=2A1A22)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Foundations-EDE0DC?style=for-the-badge&logo=oracle&logoColor=2A1A22)
-![NPTEL](https://img.shields.io/badge/NPTEL%20High%20Performance%20Computing-EDE0DC?style=for-the-badge&logoColor=2A1A22)
-
-</div>
-
----
 
 <div align="center">
 
