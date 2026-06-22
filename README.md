@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F2D4D0&height=120&section=header&text=diya%20nandana&fontSize=42&fontColor=2A1A22&fontAlignY=65&desc=software%20engineer%20·%20cloud%20architect%20·%20researcher&descSize=13&descAlignY=85&descColor=D4899A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F2D4D0&height=120&section=header&text=diya%20nandana&fontSize=42&fontColor=2A1A22&fontAlignY=65&desc=aspiring%20developer%20·%20researcher&descSize=13&descAlignY=85&descColor=D4899A" width="100%"/>
 
 </div>
 
@@ -21,8 +21,8 @@
 <div align="center">
 
 ```
-  I build intelligent systems, ship full-stack products,
-        and write research that flies. ✈️
+  I like to build, ship full-stack products,
+        and write research that flies.
 ```
 
 </div>
