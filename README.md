@@ -77,9 +77,6 @@
 
 ### 📊 github stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=diyauncensored&show_icons=true&theme=default&bg_color=FAF5F0&border_color=F2D4D0&title_color=8B4A6B&text_color=2A1A22&icon_color=D4899A&hide_border=false&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyauncensored&layout=compact&theme=default&bg_color=FAF5F0&border_color=F2D4D0&title_color=8B4A6B&text_color=2A1A22&hide_border=false&langs_count=6" />
 
 </div>
